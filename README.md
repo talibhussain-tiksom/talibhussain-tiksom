@@ -7,6 +7,9 @@ Clients across healthcare, finance, SaaS, and e-commerce trust me to combine cus
 ## Autmomation Tools
 ![n8n](https://img.shields.io/badge/n8n-EA4B1D.svg?style=for-the-badge&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make-4A00E0.svg?style=for-the-badge&logo=make&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)
 
+## AI / ML
+![AGENTIC AI](https://img.shields.io/badge/Agentic%20AI-0A0A0A?style=for-the-badge&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A.svg?style=for-the-badge&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0A0A0A.svg?style=for-the-badge&logo=openai&logoColor=white)
+
 ## Backend:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
